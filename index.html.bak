@@ -7,6 +7,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description" content="Page description.">
 <meta name="keywords" content="HTML,CSS,JavaScript">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'">
+
 </head>
 <body>
 <h1>Hello World</h1>
